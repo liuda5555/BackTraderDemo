@@ -1,5 +1,5 @@
+import datetime
 
-
-params = dict(period=20,thins=30)
+params = datetime.datetime(2013, 1, 1)
 
 print(params)
